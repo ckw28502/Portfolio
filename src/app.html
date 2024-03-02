@@ -5,18 +5,37 @@
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+		<meta name="description" content="Welcome to Calvin Kwan's Portfolio. Explore Calvin's projects, skills, and experience in software development, design, and more.">
+    
+		<meta name="author" content="Calvin Kwan">
+
+		<meta name="keywords" content="portfolio, web development, design, projects, skills">
+		
+		<meta name="theme-color" content="#3367D6">
+
+		<meta http-equiv="Content-Security-Policy" content="
+			default-src 'self';
+			font-src 'self' https://fonts.gstatic.com;
+			style-src 'self' https://fonts.googleapis.com 'unsafe-inline';
+			script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdnjs.cloudflare.com;
+		">
+
+		 <link rel="manifest" href="/manifest.json">
+
 		<!--Google Fonts-->
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 		<!--Poppins-->
-		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet" async>
 
 		<!--Poppins-->
-		<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet" async>
 
 		<!--Font Awesome-->
-		<link href="./../node_modules/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+		<link href="./../node_modules/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" async>
+
+		<title>Calvin</title>
 
 		%sveltekit.head%
 	</head>
@@ -29,5 +48,5 @@
 
 	<!--Scripts for particlesjs-->
 	<script src="particlesjs/js/particles.js"></script>
-	<script src="particlesjs/js/app.js"></script>
+	<script src="particlesjs/js/app.js"	></script>
 </html>
