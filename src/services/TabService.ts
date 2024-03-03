@@ -1,5 +1,5 @@
 import tabData from "../data/TabData.json";
-import TabModel from "../components/models/TabModel";
+import TabModel from "../models/TabModel";
 
 
 function createTabObjectsFromJson(): TabModel[] {

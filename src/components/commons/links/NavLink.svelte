@@ -1,5 +1,5 @@
 <script lang="ts">
-	import TabModel from "../../models/TabModel";
+	import TabModel from "../../../models/TabModel";
 
     export let tab: TabModel;
 </script>
