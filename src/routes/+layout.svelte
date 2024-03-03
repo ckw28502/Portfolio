@@ -1,5 +1,6 @@
 <script lang="ts">
 	import '../app.css';
+	import '@fortawesome/fontawesome-free/css/all.min.css';
 
 	//components
 	import Header from '../components/layouts/Header.svelte';
