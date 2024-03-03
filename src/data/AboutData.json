@@ -1,14 +1,14 @@
 [
-    {
-        "title" : "DOUBLE DEGREE STUDENT",
-        "description" : "I am a student from iSTTS (institut Sains dan Teknologi Terpadu Surabaya) in Indonesia who partake a double degree program to continue my pursuit of knowledge in Fontys, Netherlands."
-    },
-    {
-        "title" : "EAGER TO LEARN",
-        "description" : "I am fascinated in the world of software development. Whenever I found something interesting, I always try to find out about it. This trait of mine is often triggered during every software development project I was in."
-    },
-    {
-        "title" : "DESKTOP, WEB, AND MOBILE DEVELOPER",
-        "description" : "Even though I mostly participate on web application project (full stack), I also learned how to make a desktop application and mobile application"
-    }
+	{
+		"title": "DOUBLE DEGREE STUDENT",
+		"description": "I am a student from iSTTS (institut Sains dan Teknologi Terpadu Surabaya) in Indonesia who partake a double degree program to continue my pursuit of knowledge in Fontys, Netherlands."
+	},
+	{
+		"title": "EAGER TO LEARN",
+		"description": "I am fascinated in the world of software development. Whenever I found something interesting, I always try to find out about it. This trait of mine is often triggered during every software development project I was in."
+	},
+	{
+		"title": "DESKTOP, WEB, AND MOBILE DEVELOPER",
+		"description": "Even though I mostly participate on web application project (full stack), I also learned how to make a desktop application and mobile application"
+	}
 ]

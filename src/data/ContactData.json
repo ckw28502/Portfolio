@@ -1,18 +1,18 @@
 [
-    {
-        "name" : "whatsapp",
-        "url" : "https://wa.me/+639731213"
-    },
-    {
-        "name" : "instagram",
-        "url" : "https://www.instagram.com/kwan_calvin/"
-    },
-    {
-        "name" : "github",
-        "url" : "https://github.com/ckw28502"
-    },
-    {
-        "name" : "linkedin",
-        "url" : "https://www.linkedin.com/in/calvin-kwan-1ba0b2255/?_l=in_ID"
-    }
+	{
+		"name": "whatsapp",
+		"url": "https://wa.me/+639731213"
+	},
+	{
+		"name": "instagram",
+		"url": "https://www.instagram.com/kwan_calvin/"
+	},
+	{
+		"name": "github",
+		"url": "https://github.com/ckw28502"
+	},
+	{
+		"name": "linkedin",
+		"url": "https://www.linkedin.com/in/calvin-kwan-1ba0b2255/?_l=in_ID"
+	}
 ]

@@ -1,24 +1,23 @@
 <script lang="ts">
-    import "../app.css";
-    
-    //components
-    import Header from "../components/layouts/Header.svelte";
-    import Footer from "../components/layouts/Footer.svelte";
-	import ScrollUpButton from "../components/commons/buttons/ScrollUpButton.svelte";
+	import '../app.css';
 
-    let y: number;
-    let innerHeight: number = 0;
-    let innerWidth: number = 0;
+	//components
+	import Header from '../components/layouts/Header.svelte';
+	import Footer from '../components/layouts/Footer.svelte';
+	import ScrollUpButton from '../components/commons/buttons/ScrollUpButton.svelte';
 
-    $: isTop = y <= 0;
+	let y: number;
+	let innerHeight: number = 0;
+	let innerWidth: number = 0;
 
+	$: isTop = y <= 0;
 </script>
 
 <div class="relative flex flex-col max-w-[1400px] mx-auto w-full text-sm sm:text-base min-h-screen">
-    <ScrollUpButton isTop={isTop} />
-    <Header isTop={isTop} />
-    <slot />
-    <Footer />
+	<ScrollUpButton {isTop} />
+	<Header {isTop} />
+	<slot />
+	<Footer />
 </div>
 
 <svelte:window bind:scrollY={y} bind:innerHeight bind:innerWidth />
