@@ -14,7 +14,7 @@
 	$: isTop = y <= 0;
 </script>
 
-<div class="relative flex flex-col max-w-[1400px] mx-auto w-full text-sm sm:text-base min-h-screen">
+<div class="container relative flex flex-col max-w-[1400px] mx-auto w-full text-sm sm:text-base min-h-screen px-0">
 	<ScrollUpButton {isTop} />
 	<Header {isTop} />
 	<slot />
