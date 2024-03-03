@@ -12,7 +12,7 @@
 
 </script>
 
-<header class={"sticky z-[10] top-10 duration-200 px-6 flex items-center justify-between border-solid" + headerClasses}>
+<header class={"sticky z-[10] top-10 duration-200 px-6 flex items-center justify-between border-solid bg-opacity-5 " + headerClasses}>
     <h1 class="font-medium">
         <strong class="font-bold poppins">Calvin</strong> Kwan
     </h1>
