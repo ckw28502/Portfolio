@@ -1,0 +1,76 @@
+[
+    {
+        "title": "SNAKE CLASSIC",
+        "description": "A desktop snake game made with .NET Framework",
+        "icon": "fa-solid fa-staff-snake",
+        "link": "https://github.com/ckw28502/Snake-Classic",
+        "techs": [
+            ".NET",
+            "Framework"
+        ]
+    },
+    {
+        "title": "MATERIAL SHOP POS",
+        "description": "A POS desktop application made using .NET Framework",
+        "icon": "fa-solid fa-hammer",
+        "link": "https://github.com/ckw28502/Material-Shop-POS",
+        "techs": [
+            ".NET",
+            "Framework"
+        ]
+    },
+    {
+        "title": "NOBAR",
+        "description": "A full stack application made with Laravel. This project is about a cinema management web application. This project is in indonesian language.",
+        "icon": "fa-solid fa-film",
+        "link": "https://github.com/ckw28502/NoBar",
+        "techs": [
+            "Laravel"
+        ]
+    },
+    {
+        "title": "GAWEKERJO",
+        "description": "An android application made with Kotlin and Laravel for the server-side application. This project is a job seek mobile application. This project is in indonesian language.",
+        "icon": "fa-solid fa-briefcase",
+        "link1": "https://github.com/ckw28502/GaweKerjo_API",
+        "link2": "https://github.com/ckw28502/GaweKerjo",
+        "techs": [
+            "Laravel",
+            "Kotlin"
+        ]
+    },
+    {
+        "title": "DIETECTIVE",
+        "description": "A 3D game made using Unity. Dietective is a short game that is purposed to promote a movie concept",
+        "icon": "fa-solid fa-user-secret",
+        "link": "https://github.com/ckw28502/UnityProject3D_new",
+        "techs": [
+            "Unity"
+        ]
+    },
+    {
+        "title": "HUISTER",
+        "description": "A property renting web application. This project is made using Spring Boot + ReactJS",
+        "icon": "fa-solid fa-house",
+        "link1": "https://github.com/ckw28502/HuisterAPI",
+        "link2": "https://github.com/ckw28502/Huister",
+        "techs": [
+            "Spring",
+            "Boot",
+            "ReactJS"
+        ]
+    },
+    {
+        "title": "FAMTIME",
+        "description": "A social media application made using Go with Gin for microservices and ReactJS with TypeScript for the user interface",
+        "icon": "fa-solid fa-comments",
+        "techs": [
+            "Go",
+            "Gin",
+            "ReactJS",
+            "TypeScript"
+        ]
+        
+
+    }
+]
